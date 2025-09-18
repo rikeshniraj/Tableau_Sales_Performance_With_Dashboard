@@ -1,17 +1,17 @@
 # Tableau_Sales_Performance_With_Dashboard
-Overview
+# Overview
 
 The Sales & Customer Dashboard Project is a comprehensive Tableau-based data visualization solution designed to provide business stakeholders with actionable insights into sales performance and customer behavior. This dashboard facilitates data-driven decision-making by offering a clear and interactive view of key performance indicators (KPIs), trends, and metrics.
 
-Objectives
+# Objectives
 
 Deliver a centralized, interactive dashboard for monitoring key sales and customer KPIs.
 Enable performance analysis across multiple dimensions such as Year, Region, Product Category, and Customer Performance.
 Support business strategy through visual analytics and effective data storytelling.
 
-Key Features
+# Key Features
 
-📈 Sales Performance Analysis
+# 📈 Sales Performance Analysis
 
 •	Track Revenue, Units Sold, and Profit over time.
 
@@ -24,7 +24,7 @@ Key Features
 
 
 
-👤 Customer Segmentation
+# 👤 Customer Segmentation
 
 •	Monitor Total Customers, Sales per Customer, and Total Orders.
 
@@ -37,7 +37,7 @@ Key Features
 
 
 
-🛍️ Top Sub-Categories
+# 🛍️ Top Sub-Categories
 
 •	Identify high-performing sub-categories for each year.
 
@@ -45,7 +45,7 @@ Key Features
 
 
 
-🕒 Filtering
+# 🕒 Filtering
 
 Apply dynamic filters to analyze data by:
 
